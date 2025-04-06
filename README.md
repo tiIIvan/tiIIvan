@@ -1,5 +1,5 @@
 <div align="center">
-  <img width = "80%" src="https://i.postimg.cc/fWXNK0NG/IMG-1734.png">
+  <img width = "50%" src="https://i.postimg.cc/nrfytdhx/IMG-1818.png">
 </div>
 
 <p align="center">
